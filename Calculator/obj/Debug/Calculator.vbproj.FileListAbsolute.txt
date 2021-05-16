@@ -1,0 +1,10 @@
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+c:\users\snazzy\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
